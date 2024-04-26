@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 118,
-    "timeDay": 169,
-    "timeWeek": 172,
-    "timeMonth": 118,
-    "timeYear": 118,
+    "time": 123,
+    "timeDay": 251,
+    "timeWeek": 196,
+    "timeMonth": 123,
+    "timeYear": 123,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mss.me.ico",
     "slug": "mss",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 2478,
-    "timeDay": 11043,
-    "timeWeek": 4933,
-    "timeMonth": 2478,
-    "timeYear": 2478,
-    "dailyMinutesDown": {
-      "2024-04-25": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2423,
+    "timeDay": 11005,
+    "timeWeek": 4913,
+    "timeMonth": 2423,
+    "timeYear": 2423,
+    "dailyMinutesDown": {}
   },
   {
     "name": "MSaifuddin",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.78%",
-    "time": 149,
-    "timeDay": 118,
-    "timeWeek": 144,
-    "timeMonth": 149,
-    "timeYear": 149,
+    "time": 150,
+    "timeDay": 181,
+    "timeWeek": 149,
+    "timeMonth": 150,
+    "timeYear": 150,
     "dailyMinutesDown": {
       "2024-04-04": 69
     }
