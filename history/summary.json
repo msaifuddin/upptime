@@ -22,18 +22,20 @@
     "url": "https://mss.me",
     "icon": "https://icons.duckduckgo.com/ip3/mss.me.ico",
     "slug": "mss",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2277,
-    "timeDay": 567,
-    "timeWeek": 4633,
-    "timeMonth": 2277,
-    "timeYear": 2277,
-    "dailyMinutesDown": {}
+    "time": 2264,
+    "timeDay": 1179,
+    "timeWeek": 4414,
+    "timeMonth": 2264,
+    "timeYear": 2264,
+    "dailyMinutesDown": {
+      "2024-04-29": 0
+    }
   },
   {
     "name": "MSaifuddin",
