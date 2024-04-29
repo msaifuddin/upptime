@@ -22,19 +22,19 @@
     "url": "https://mss.me",
     "icon": "https://icons.duckduckgo.com/ip3/mss.me.ico",
     "slug": "mss",
-    "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "94.99%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 3890,
-    "timeDay": 8452,
-    "timeWeek": 6802,
-    "timeMonth": 3890,
-    "timeYear": 3890,
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "95.33%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 3842,
+    "timeDay": 7923,
+    "timeWeek": 6584,
+    "timeMonth": 3842,
+    "timeYear": 3842,
     "dailyMinutesDown": {
-      "2024-04-29": 73
+      "2024-04-29": 68
     }
   },
   {
