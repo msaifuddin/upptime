@@ -10,11 +10,11 @@
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 141,
-    "timeDay": 75,
-    "timeWeek": 199,
-    "timeMonth": 141,
-    "timeYear": 141,
+    "time": 139,
+    "timeDay": 71,
+    "timeWeek": 190,
+    "timeMonth": 143,
+    "timeYear": 139,
     "dailyMinutesDown": {
       "2024-05-01": 30
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.33%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
-    "time": 3520,
-    "timeDay": 965,
-    "timeWeek": 5046,
-    "timeMonth": 3520,
-    "timeYear": 3520,
+    "time": 3468,
+    "timeDay": 586,
+    "timeWeek": 5160,
+    "timeMonth": 3670,
+    "timeYear": 3468,
     "dailyMinutesDown": {
       "2024-04-29": 68
     }
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/msaifuddin.com.ico",
     "slug": "m-saifuddin",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 157,
-    "timeDay": 146,
-    "timeWeek": 184,
-    "timeMonth": 157,
-    "timeYear": 157,
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.84%",
+    "time": 155,
+    "timeDay": 103,
+    "timeWeek": 181,
+    "timeMonth": 163,
+    "timeYear": 155,
     "dailyMinutesDown": {
       "2024-04-04": 69
     }
