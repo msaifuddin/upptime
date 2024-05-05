@@ -24,7 +24,7 @@
     "url": "https://mss.me",
     "icon": "https://icons.duckduckgo.com/ip3/mss.me.ico",
     "slug": "mss",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.33%",
@@ -36,6 +36,7 @@
     "timeMonth": 3780,
     "timeYear": 3422,
     "dailyMinutesDown": {
+      "2024-05-05": 0,
       "2024-04-29": 68
     }
   },
