@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 132,
-    "timeDay": 66,
-    "timeWeek": 74,
-    "timeMonth": 126,
-    "timeYear": 132,
+    "time": 131,
+    "timeDay": 102,
+    "timeWeek": 77,
+    "timeMonth": 127,
+    "timeYear": 131,
     "dailyMinutesDown": {
       "2024-05-01": 30
     }
@@ -25,18 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mss.me.ico",
     "slug": "mss",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.92%",
-    "time": 2445,
-    "timeDay": 1085,
-    "timeWeek": 900,
+    "uptime": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.93%",
+    "time": 2427,
+    "timeDay": 1016,
+    "timeWeek": 872,
     "timeMonth": 816,
-    "timeYear": 2445,
+    "timeYear": 2427,
     "dailyMinutesDown": {
-      "2024-06-08": 5,
       "2024-04-29": 68
     }
   },
@@ -52,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 169,
-    "timeDay": 189,
-    "timeWeek": 174,
-    "timeMonth": 181,
+    "timeDay": 131,
+    "timeWeek": 164,
+    "timeMonth": 180,
     "timeYear": 169,
     "dailyMinutesDown": {
       "2024-04-04": 69
