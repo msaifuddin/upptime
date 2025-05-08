@@ -24,17 +24,17 @@
     "slug": "mss",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
-    "time": 1983,
+    "time": 1981,
     "timeDay": 965,
     "timeWeek": 876,
     "timeMonth": 886,
-    "timeYear": 1801,
+    "timeYear": 1799,
     "dailyMinutesDown": {
-      "2025-05-08": 0,
+      "2025-05-08": 5,
       "2024-06-19": 4,
       "2024-06-18": 118
     }
