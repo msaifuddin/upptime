@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 82,
-    "timeWeek": 99,
-    "timeMonth": 124,
-    "timeYear": 135,
+    "timeDay": 132,
+    "timeWeek": 103,
+    "timeMonth": 126,
+    "timeYear": 134,
     "dailyMinutesDown": {}
   },
   {
@@ -24,17 +24,16 @@
     "slug": "mss",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1688,
-    "timeDay": 875,
-    "timeWeek": 853,
-    "timeMonth": 944,
+    "time": 1689,
+    "timeDay": 876,
+    "timeWeek": 851,
+    "timeMonth": 945,
     "timeYear": 914,
     "dailyMinutesDown": {
-      "2025-06-25": 5,
       "2025-05-09": 140
     }
   },
@@ -50,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 182,
-    "timeDay": 189,
-    "timeWeek": 205,
-    "timeMonth": 195,
+    "timeDay": 245,
+    "timeWeek": 206,
+    "timeMonth": 198,
     "timeYear": 186,
     "dailyMinutesDown": {}
   }
