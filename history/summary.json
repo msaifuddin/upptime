@@ -6,18 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 135,
-    "timeWeek": 118,
+    "timeDay": 139,
+    "timeWeek": 120,
     "timeMonth": 109,
     "timeYear": 134,
-    "dailyMinutesDown": {
-      "2025-07-07": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MSS",
@@ -31,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1676,
-    "timeDay": 856,
-    "timeWeek": 856,
-    "timeMonth": 928,
-    "timeYear": 912,
+    "timeDay": 834,
+    "timeWeek": 853,
+    "timeMonth": 925,
+    "timeYear": 913,
     "dailyMinutesDown": {
       "2025-05-09": 140
     }
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 183,
-    "timeDay": 201,
-    "timeWeek": 188,
-    "timeMonth": 196,
+    "timeDay": 168,
+    "timeWeek": 192,
+    "timeMonth": 195,
     "timeYear": 186,
     "dailyMinutesDown": {}
   }
