@@ -4,7 +4,7 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,10 +12,12 @@
     "uptimeYear": "100.00%",
     "time": 133,
     "timeDay": 272,
-    "timeWeek": 199,
-    "timeMonth": 138,
+    "timeWeek": 204,
+    "timeMonth": 141,
     "timeYear": 136,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-05": 0
+    }
   },
   {
     "name": "MSS",
@@ -23,10 +25,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/mss.me.ico",
     "slug": "mss",
     "status": "up",
-    "uptime": "99.08%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "86.05%",
+    "uptime": "99.09%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "86.07%",
     "uptimeYear": "98.81%",
     "time": 1618,
     "timeDay": 3171,
@@ -34,7 +36,6 @@
     "timeMonth": 1313,
     "timeYear": 982,
     "dailyMinutesDown": {
-      "2025-08-05": 9,
       "2025-07-12": 405,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
