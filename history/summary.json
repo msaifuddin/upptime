@@ -6,8 +6,8 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
@@ -15,9 +15,7 @@
     "timeWeek": 158,
     "timeMonth": 120,
     "timeYear": 134,
-    "dailyMinutesDown": {
-      "2025-08-04": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MSS",
@@ -25,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mss.me.ico",
     "slug": "mss",
     "status": "up",
-    "uptime": "99.08%",
+    "uptime": "99.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "86.07%",
