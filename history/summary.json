@@ -6,18 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 133,
-    "timeDay": 215,
+    "timeDay": 248,
     "timeWeek": 164,
     "timeMonth": 165,
     "timeYear": 139,
-    "dailyMinutesDown": {
-      "2025-09-03": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MSS",
@@ -25,17 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mss.me.ico",
     "slug": "mss",
     "status": "up",
-    "uptime": "99.13%",
-    "uptimeDay": "100.00%",
+    "uptime": "99.14%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "98.81%",
-    "time": 1377,
-    "timeDay": 1031,
-    "timeWeek": 2843,
-    "timeMonth": 2846,
+    "time": 1356,
+    "timeDay": 0,
+    "timeWeek": 1030,
+    "timeMonth": 2935,
     "timeYear": 1284,
     "dailyMinutesDown": {
+      "2025-09-03": 0,
       "2025-08-07": 15,
       "2025-07-12": 405,
       "2025-07-11": 1440,
@@ -57,10 +56,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
-    "timeDay": 324,
+    "timeDay": 0,
     "timeWeek": 199,
     "timeMonth": 239,
-    "timeYear": 193,
+    "timeYear": 194,
     "dailyMinutesDown": {}
   }
 ]
