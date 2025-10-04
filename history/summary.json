@@ -48,17 +48,19 @@
     "url": "https://msaifuddin.com",
     "icon": "https://icons.duckduckgo.com/ip3/msaifuddin.com.ico",
     "slug": "m-saifuddin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 189,
-    "timeDay": 191,
-    "timeWeek": 174,
-    "timeMonth": 200,
-    "timeYear": 196,
-    "dailyMinutesDown": {}
+    "time": 190,
+    "timeDay": 526,
+    "timeWeek": 260,
+    "timeMonth": 221,
+    "timeYear": 198,
+    "dailyMinutesDown": {
+      "2025-10-04": 0
+    }
   }
 ]
