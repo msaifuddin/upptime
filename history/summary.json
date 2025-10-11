@@ -24,8 +24,8 @@
     "slug": "mss",
     "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.81%",
     "time": 1274,
@@ -34,7 +34,6 @@
     "timeMonth": 1231,
     "timeYear": 1345,
     "dailyMinutesDown": {
-      "2025-10-10": 2,
       "2025-08-07": 15,
       "2025-07-12": 405,
       "2025-07-11": 1440,
