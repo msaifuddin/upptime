@@ -24,9 +24,9 @@
     "slug": "mss",
     "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.02%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.01%",
     "uptimeYear": "98.73%",
     "time": 2055,
     "timeDay": 803,
@@ -34,7 +34,7 @@
     "timeMonth": 4138,
     "timeYear": 2232,
     "dailyMinutesDown": {
-      "2025-11-18": 10,
+      "2025-11-18": 13,
       "2025-11-11": 39,
       "2025-11-10": 131,
       "2025-11-09": 107,
@@ -57,19 +57,19 @@
     "url": "https://msaifuddin.com",
     "icon": "https://icons.duckduckgo.com/ip3/msaifuddin.com.ico",
     "slug": "m-saifuddin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 193,
-    "timeDay": 119,
-    "timeWeek": 197,
-    "timeMonth": 209,
+    "timeDay": 124,
+    "timeWeek": 192,
+    "timeMonth": 207,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2025-11-18": 5
+      "2025-11-18": 0
     }
   }
 ]
