@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 137,
-    "timeDay": 259,
-    "timeWeek": 150,
-    "timeMonth": 136,
-    "timeYear": 149,
-    "dailyMinutesDown": {}
+    "time": 136,
+    "timeDay": 223,
+    "timeWeek": 143,
+    "timeMonth": 135,
+    "timeYear": 148,
+    "dailyMinutesDown": {
+      "2025-11-25": 5
+    }
   },
   {
     "name": "MSS",
