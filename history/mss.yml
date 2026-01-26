@@ -1,7 +1,7 @@
 url: https://mss.me
-status: up
-code: 200
-responseTime: 835
-lastUpdated: 2026-01-26T08:25:55.265Z
+status: down
+code: 415
+responseTime: 600
+lastUpdated: 2026-01-26T09:15:57.523Z
 startTime: 2024-04-04T00:06:53.849Z
 generator: Upptime <https://github.com/upptime/upptime>
