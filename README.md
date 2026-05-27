@@ -1,4 +1,4 @@
-# [📈 Live Status](https://status.mss.me): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://status.mss.me): <!--live v status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [mss](msaifuddin.com), powered by [Upptime](https://github.com/upptime/upptime).
 
